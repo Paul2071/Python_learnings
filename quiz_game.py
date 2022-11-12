@@ -6,7 +6,7 @@ playing = input("Type yes if you want to play, no if you don't! ")
 if playing.lower() != "yes":
     quit()
 
-print("Cool, Let's play!")
+print("Cool, let's play!")
 
 score = 0
 
